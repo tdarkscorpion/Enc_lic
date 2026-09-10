@@ -1,0 +1,16 @@
+{
+  "payload": {
+    "client_name": "Himesh",
+    "hwid": "TLSM-B82B-F3A0-FF17-BF3E",
+    "plan": "Commercial Rental",
+    "issued_date": "2026-09-10",
+    "expires_date": "2026-11-09",
+    "full_builds_allowed": 10,
+    "allowed_full_builds": 10,
+    "patches_allowed": 50,
+    "allowed_patches": 50,
+    "nonce": "NNC-1788999379-26ab9fa3"
+  },
+  "signature": "9d2d7f2ccd70f390c2e8562c831efeb7cc5a06fef573d7ec337d930cde23a5c1fd017751181b730a590322a44a83e394be8ffb4074677ac2e3c9754f6c93f707",
+  "version": 1
+}
