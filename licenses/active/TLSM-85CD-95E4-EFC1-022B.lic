@@ -1,14 +1,13 @@
-{
-  "_comment": "TALISMAN CLIENT ENCRYPTOR - COMMERCIAL DIGITAL LICENSE",
-  "payload": {
-    "client_name": "Developer Workstation",
-    "hwid": "TLSM-85CD-95E4-EFC1-022B",
-    "plan": "Monthly Rental",
-    "issued_date": "2026-09-10",
-    "expires_date": "2026-10-10",
-    "allowed_full_builds": 1,
-    "allowed_patches": 5,
-    "nonce": "a308322bcc1c04ab"
-  },
-  "signature": "3985f24436d5015d057d2f2e0098765d2bdfacbb31b70268be7cea9799f05c6067185bff82f1ff4c2b283029ba35586cd3c4f820cbb93f0fa7fdcb70dbc9980f"
-}
+-----BEGIN TALISMAN ENCRYPTED LICENSE-----
+Ur8ctF7nTV/5e+SCMGpg3Q9VOgjGXXrIJauVNRzINtZjviyKR1bLF/2G8UHkpgD4
+8FFUul8JI3C24XIcO1Zf0eokKpY56Ls36CbjKMvcdAdw02ne4wAJs+qHW+t6MTjb
+12Tx6KZwDOUv3HKnYVo5c/wDYXQt6uDTX4GL1QsUwM5mskRtffVfv9Do7WHxbSBZ
+nf8vzm8h/X73HOAFzOe/ZLArARoxQnsW4LjF8UFB8JBQHputaqAv5/fdxdGgVvYI
+3bkEhUh0F/79Q4nqmQIS7khK+v3OBZu7ATPme8SuQrXTBlbJq4nqF7rPpf9mk05C
+/wrvt8hi98SCqiNsDHA6AKTIpF6x8Pa245SVXJrC6gg7/IZYy/2YL3IZGUZboxwH
+pTbf5XPN0AOMYMamiiQltge7iTy4zS4IFn+aD+LSsRnqf/+W5jH6gvXTFSwCfSsV
+EDjJ2u6NloSqd12+A5o+KBe4b6QCUVUPmb3hXQPgKrGd9xeRzcpk0U46Y+bVlYxL
+jWemoM8cQn85/1+sQnPyC/R3NjMCActdU0xCggDV0xq2pjvUaDkOevd1BbOCEN7M
+FBUKY7Bbg5Dg/M4FAVXWuTNPd/iBLbDPOgh1ESi3RLLxVxMgzpU7rFnPT2DST+WA
+FewuvFp66YBz1Apo+YI=
+-----END TALISMAN ENCRYPTED LICENSE-----

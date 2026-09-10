@@ -1,16 +1,13 @@
-{
-  "payload": {
-    "client_name": "Himesh",
-    "hwid": "TLSM-B82B-F3A0-FF17-BF3E",
-    "plan": "Commercial Rental",
-    "issued_date": "2026-09-10",
-    "expires_date": "2026-11-09",
-    "full_builds_allowed": 10,
-    "allowed_full_builds": 10,
-    "patches_allowed": 50,
-    "allowed_patches": 50,
-    "nonce": "NNC-1788999379-26ab9fa3"
-  },
-  "signature": "9d2d7f2ccd70f390c2e8562c831efeb7cc5a06fef573d7ec337d930cde23a5c1fd017751181b730a590322a44a83e394be8ffb4074677ac2e3c9754f6c93f707",
-  "version": 1
-}
+-----BEGIN TALISMAN ENCRYPTED LICENSE-----
+Hg8eHPDgy/3gykOmH9mZgeTRjRt/MnL5JhKIlt5+tBnfQvnmkpx4v3cjUoNK/M+T
+UgfqOdz6CbZMDHBpheeol/VcENyLV0j9gk5yV8MB3H8ih2WWwuJGvgDht2yAL11g
+LJbvC6icQhkvaz5fHovf6+mX7Ep6SF0qqveCXjCgUNAyLjN1xozkY3EXhBKphTsO
+zJmaJzcswKcp9RyyxLEkc1NZk/ljr16ELiVUSGfF7sN6LXrYv1ooGH+woIxSo1/B
+Pahqj2UlbQdEl+2TzKtgNhULgGR6QPEy7pKntE5OCYrlqQRbyDK5U14xere81W4i
+jFl517L63mPrETPoKTWg8+JxsePPXGeCDEKeGcbq0de0KI/VPDdlxuCfY27Zjegw
+brUeT14oz7eaAY36AhSF3F9JZb2ea014IyhiN49VEYq9W5tQMrWrdPGVfY8wFeJv
+QxZLzg8E7tXVb+0Ri0nblax7QQbfCaivD4rehGl0kqYtDk0wSHIwVUr5P7OjZGeC
+rVsKMlyLulc/dyEzcnW6Kr9tTXeimy1o+9WSBt68RB3c7bkqts9JEpR7HxobRHWB
+fUwLwyDx1pWpM1N14qVVTzLlz9Ft8Jr1z7SlUFSRO7TxqIMxl7uxwYmGB90qROXJ
+uud4utE=
+-----END TALISMAN ENCRYPTED LICENSE-----
