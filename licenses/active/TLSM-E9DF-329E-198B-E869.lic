@@ -1,0 +1,14 @@
+{
+  "_comment": "TALISMAN CLIENT ENCRYPTOR - COMMERCIAL DIGITAL LICENSE",
+  "payload": {
+    "client_name": "Developer Workstation",
+    "hwid": "TLSM-E9DF-329E-198B-E869",
+    "plan": "Monthly Rental",
+    "issued_date": "2026-09-10",
+    "expires_date": "2026-10-10",
+    "allowed_full_builds": 1,
+    "allowed_patches": 5,
+    "nonce": "1b07117f4c9314f1"
+  },
+  "signature": "1bf0dde11bd5dc7918605d2310139cfce7e3c5e738c0ef712b5231582e3a5b34c1d3a50129e9e2c51ac11bab4563c011b50d26b35590a9be9387434b2fc2e708"
+}
